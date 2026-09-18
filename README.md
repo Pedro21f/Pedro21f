@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Pedro, I'm 16 years old and I live in Rio de Janeiro, Brazil.
+I started my career in technology with HTML, CSS and JavaScript but I thought: I want building things about IA, data, More complex codes... and I started learn Python, SQLite, Git, and now N8N.
+My english is intermediate but I have a huge desire to improve it.  
+I'm looking for a Young apprentice to improve my skills both in the career of programming and in life.
