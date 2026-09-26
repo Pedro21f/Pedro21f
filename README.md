@@ -4,6 +4,7 @@ My name is Pedro, I'm 16 years old and I live in Rio de Janeiro, Brazil.
 
 ## 👨‍💻 About me
 I started my journey in technology because I believe in future. AI is the future. Maths is the future. And who will command the future? Who know this things... So I started learning Python, SQLite, Git, and now n8n.
+I study AI with Prompt engineering, LLM models, API tests...
 
 My English is at an intermediate level, but I'm eager to improve it.
 
@@ -14,7 +15,7 @@ I'm looking for a Young Apprentice (Jovem Aprendiz) opportunity to improve my sk
 - SQLite
 - Git
 - n8n
-
+- AI
 ## 📚 Currently learning
 - Python
 - n8n
