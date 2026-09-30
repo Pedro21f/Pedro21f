@@ -11,16 +11,17 @@ My English is at an intermediate level, but I'm eager to improve it.
 I'm looking for a Young Apprentice (Jovem Aprendiz) opportunity to improve my skills both in programming and in life.
 
 ## 🛠️ Technologies & Tools
-![Python](https://shields.io)
-![SQL](https://shields.io)
-![n8n](https://shields.io)
-![Artificial Intelligence](https://shields.io)
-![Git](https://shields.io)
+<img src="https://shields.io" alt="Python" />
+<img src="https://shields.io" alt="SQL" />
+<img src="https://shields.io" alt="n8n" />
+<img src="https://shields.io" alt="AI" />
+<img src="https://shields.io" alt="Git" />
 
 ## 📚 I intend to learn:
-![FastAPI](https://shields.io)
-![LangChain](https://shields.io)
-![Pinecone](https://shields.io)
+<img src="https://shields.io" alt="FastAPI" />
+<img src="https://shields.io" alt="LangChain" />
+<img src="https://shields.io" alt="Pinecone" />
+
 
 
 
