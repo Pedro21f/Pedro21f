@@ -16,23 +16,26 @@ I'm looking for a Young Apprentice (Jovem Aprendiz) opportunity to improve my sk
 
 ## 🛠️ Technologies & Tools
 
-<img src="https://skillicons.dev/icons?i=py,sqlite,git" alt="Python, SQLite, Git" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
 <br/><br/>
 
 ## 📚 I intend to learn:
 
-<img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
 <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
 
 </div>
-</div>
 
 ## 🎯 Goals
 
-- Build more complex projects
+- Build more complex projects.
+- Learn many things.
+
 - Improve my English
 - Grow as a developer and as a person
