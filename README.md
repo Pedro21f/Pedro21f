@@ -16,7 +16,7 @@ I'm looking for a Young Apprentice (Jovem Aprendiz) opportunity to improve my sk
 - Git
 - n8n
 - AI
-## 📚 Currently learning
+## 📚 Currently learning (and improving it)
 - Python
 - n8n
 - Git
