@@ -17,11 +17,11 @@ I'm looking for a Young Apprentice (Jovem Aprendiz) opportunity to improve my sk
 ![Artificial Intelligence](https://shields.io)
 ![Git](https://shields.io)
 
-
 ## 📚 I intend to learn:
 ![FastAPI](https://shields.io)
 ![LangChain](https://shields.io)
 ![Pinecone](https://shields.io)
+
 
 
 ## 🎯 Goals
